@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Latest News</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_articles">No Articles are Found. Please Try Again Later</string>
+
+
+    <string name="section_1_label">All</string>
+    <string name="section_1_value">all</string>
+
+    <string name="section_2_label">Art and design</string>
+    <string name="section_2_value">art and design</string>
+
+    <string name="section_3_label">Books</string>
+    <string name="section_3_value">books</string>
+
+    <string name="section_4_label">Business</string>
+    <string name="section_4_value">business</string>
+
+    <string name="section_5_label">Culture</string>
+    <string name="section_5_value">culture</string>
+
+    <string name="section_6_label">Education</string>
+    <string name="section_6_value">education</string>
+
+    <string name="section_7_label">Fashion</string>
+    <string name="section_7_value">fashion</string>
+
+    <string name="section_8_label">Film</string>
+    <string name="section_8_value">film</string>
+
+</resources>
